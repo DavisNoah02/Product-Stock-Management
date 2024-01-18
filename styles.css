@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 10px;
+    
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(76, 110, 152);
+    color: white;  
+    
+}
+body{
+    background: url(Assets/pexels-ivan-babydov-7788009.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: center ; */
+}
