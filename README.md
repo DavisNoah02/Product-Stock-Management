@@ -39,8 +39,10 @@ The project follows a simple structure:
 To use the Electronics stock management system, follow the steps below:
 1. Open `index.html` in a web browser.
 2. Fill out the "Add Item" form with the details of a new electronic product.
+
 **Note:**  *The form backdrop is set to static, doesn't close if you hover outside it,unless you hit the close btn.*.
-3. Click the "Save" button to add the item to the stock.
-4. Item and its details will automatically be displayed.
-5. Use the "Edit" and "Remove" to edit or delete  each item.
+
+4. Click the "Save" button to add the item to the stock.
+5. Item and its details will automatically be displayed.
+6. Use the "Edit" and "Remove" to edit or delete  each item.
 
